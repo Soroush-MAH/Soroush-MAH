@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soroush-mah&label=Profile%20views&color=0e75b6&style=flat" alt="soroush-mah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soroush-mah" alt="soroush-mah" /></a> </p>
 
 - 🔭 I’m currently working on [Unity learning project](https://github.com/Soroush-MAH/Unity)
 

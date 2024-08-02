@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **unity, javascript & frontend development**
 
-- 👯 I’m looking to collaborate on [SnowyNetwork Plugins](https://github.com/RiasZz/)
-
 - 💬 Ask me about **photoshop, unity**
 
 - 📫 How to reach me **@soroushmah on discord**

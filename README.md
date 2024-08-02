@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Soroush</h1>
 <h3 align="center">I'm a 17 y.o Developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soroush-mah&label=Profile%20views&color=0e75b6&style=flat" alt="soroush-mah" /> </p>
-
 - 🔭 I’m currently working on [Unity learning project](https://github.com/Soroush-MAH/Unity)
 
 - 🌱 I’m currently learning **unity, javascript & frontend development**
